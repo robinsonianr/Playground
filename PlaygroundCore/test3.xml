@@ -1,0 +1,9 @@
+<com.playground.util.objects.Device serialization="custom">
+  <com.playground.util.objects.Device>
+    <default>
+      <deviceType>Iphone</deviceType>
+      <generation>14</generation>
+      <price>699.99</price>
+    </default>
+  </com.playground.util.objects.Device>
+</com.playground.util.objects.Device>
