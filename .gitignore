@@ -1,3 +1,20 @@
+# Intellij
 .idea/
+
+# Gradle
 build
 .gradle
+
+# Generated files
+*.txt
+*.html
+*.xml
+*.csv
+test_*
+*.ser
+*.zip
+*.trip
+*.xls
+*.pdf
+*.png
+*.svg
