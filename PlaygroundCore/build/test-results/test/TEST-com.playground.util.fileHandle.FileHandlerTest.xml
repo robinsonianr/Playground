@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.playground.util.fileHandle.FileHandlerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-03T17:35:10" hostname="LAPTOP-1U7U8C9H" time="0.186">
+<testsuite name="com.playground.util.fileHandle.FileHandlerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-15T04:43:42" hostname="LAPTOP-1U7U8C9H" time="0.163">
   <properties/>
-  <testcase name="testHandleFile" classname="com.playground.util.fileHandle.FileHandlerTest" time="0.186"/>
+  <testcase name="testHandleFile" classname="com.playground.util.fileHandle.FileHandlerTest" time="0.163"/>
   <system-out><![CDATA[Customized De-serialization of Device Persistence State: 21345094893086
 Customized De-serialization of Employee Persistence State: 21345094893085
 ]]></system-out>

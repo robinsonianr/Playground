@@ -1,4 +1,0 @@
-rootProject.name = 'Playground'
-include 'PlaygroundApp'
-include 'PlaygroundCore'
-
